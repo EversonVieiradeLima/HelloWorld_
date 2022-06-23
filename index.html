@@ -1,11 +1,12 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
     <head>
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Hello, World_</title>
         <link rel="stylesheet" type="text/css" href="style.css" media="screen" />
+        <script type="text/javascript" src="script.js" defer></script>
     </head>
     <body>
         <h2>Hello, World_</h2>
@@ -19,9 +20,10 @@
             <h3>Obtenha informações para melhorar seu desempenho.</h3>
             <p id="p1">Documentando tecnologias da web, incluindo CSS, HTML e JavaScript.</p>
             <Center>
-                <input type="text" placeholder="Digite sua pergunta" />
-                <button>Procurar</button>
+                <input id="inputPergunta" type="text" placeholder="Digite sua pergunta" />
+                <button onclick="procurar()">Procurar</button>
             </Center>
+            <h5 id="resposta"></h5>
             <img id="maos" src="./Imagens/mãos.png" alt="Imagem de aperto de mãos entre um humano e a rede de internet">
             <p id="p2">Hello, World_ é um site de perguntas e respostas para iniciantes na área de programação de computadores.</p>
             <img id="exclamação" src="./Imagens/exclamação.png" alt="Imagem de uma exclamação">

@@ -119,3 +119,15 @@ h4 {
 #p4 {
     margin-bottom: 100px;
 }
+
+#resposta {
+    margin-top: 15px;
+}
+
+#resposta div {
+    font-size: 12px;
+    font-weight: normal;
+    font-style: italic;
+    opacity: 0.5;
+    margin-bottom: 10px;
+}
