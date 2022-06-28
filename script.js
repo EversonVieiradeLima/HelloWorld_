@@ -135,6 +135,9 @@ function procurar() {
        
     if(inputPergunta.value == "Como deixar a fonte em italico?") {
         elementoResposta.innerHTML = pergunta + respostas[1]
+        if(inputPergunta.value == "Como deixar a fonte em italico?") {
+            elementoResposta2.innerHTML = ""
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -142,6 +145,9 @@ function procurar() {
 
     if(inputPergunta.value == "como deixar a fonte em italico?") {
         elementoResposta.innerHTML = pergunta + respostas[1]
+        if(inputPergunta.value == "como deixar a fonte em italico?") {
+            elementoResposta2.innerHTML = ""
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -149,6 +155,9 @@ function procurar() {
 
     if(inputPergunta.value == "Como deixar a fonte em italico") {
         elementoResposta.innerHTML = pergunta + respostas[1]
+        if(inputPergunta.value == "Como deixar a fonte em italico") {
+            elementoResposta2.innerHTML = ""
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -156,6 +165,9 @@ function procurar() {
 
     if(inputPergunta.value == "como deixar a fonte em italico") {
         elementoResposta.innerHTML = pergunta + respostas[1]
+        if(inputPergunta.value == "como deixar a fonte em italico") {
+            elementoResposta2.innerHTML = ""
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -163,6 +175,9 @@ function procurar() {
 
     if(inputPergunta.value == "Como deixar fonte em italico?") {
         elementoResposta.innerHTML = pergunta + respostas[1]
+        if(inputPergunta.value == "Como deixar fonte em italico?") {
+            elementoResposta2.innerHTML = ""
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -170,6 +185,9 @@ function procurar() {
 
     if(inputPergunta.value == "como deixar fonte em italico?") {
         elementoResposta.innerHTML = pergunta + respostas[1]
+        if(inputPergunta.value == "como deixar fonte em italico?") {
+            elementoResposta2.innerHTML = ""
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -177,6 +195,9 @@ function procurar() {
 
     if(inputPergunta.value == "Como deixar fonte em italico") {
         elementoResposta.innerHTML = pergunta + respostas[1]
+        if(inputPergunta.value == "Como deixar fonte em italico") {
+            elementoResposta2.innerHTML = ""
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -184,6 +205,9 @@ function procurar() {
 
     if(inputPergunta.value == "como deixar fonte em italico") {
         elementoResposta.innerHTML = pergunta + respostas[1]
+        if(inputPergunta.value == "como deixar fonte em italico") {
+            elementoResposta2.innerHTML = ""
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -191,6 +215,9 @@ function procurar() {
 
     if(inputPergunta.value == "Como deixar a fonte italico?") {
         elementoResposta.innerHTML = pergunta + respostas[1]
+        if(inputPergunta.value == "Como deixar a fonte italico?") {
+            elementoResposta2.innerHTML = ""
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -198,6 +225,9 @@ function procurar() {
 
     if(inputPergunta.value == "como deixar a fonte italico?") {
         elementoResposta.innerHTML = pergunta + respostas[1]
+        if(inputPergunta.value == "como deixar a fonte italico?") {
+            elementoResposta2.innerHTML = ""
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -205,6 +235,9 @@ function procurar() {
 
     if(inputPergunta.value == "Como deixar a fonte italico") {
         elementoResposta.innerHTML = pergunta + respostas[1]
+        if(inputPergunta.value == "Como deixar a fonte italico") {
+            elementoResposta2.innerHTML = ""
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -212,6 +245,9 @@ function procurar() {
 
     if(inputPergunta.value == "como deixar a fonte italico") {
         elementoResposta.innerHTML = pergunta + respostas[1]
+        if(inputPergunta.value == "como deixar a fonte italico") {
+            elementoResposta2.innerHTML = ""
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -219,6 +255,9 @@ function procurar() {
 
     if(inputPergunta.value == "deixar a fonte em italico") {
         elementoResposta.innerHTML = pergunta + respostas[1]
+        if(inputPergunta.value == "deixar a fonte em italico") {
+            elementoResposta2.innerHTML = ""
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -226,6 +265,9 @@ function procurar() {
 
     if(inputPergunta.value == "Deixar a fonte em italico") {
         elementoResposta.innerHTML = pergunta + respostas[1]
+        if(inputPergunta.value == "Deixar a fonte em italico") {
+            elementoResposta2.innerHTML = ""
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -233,6 +275,9 @@ function procurar() {
 
     if(inputPergunta.value == "deixar fonte em italico") {
         elementoResposta.innerHTML = pergunta + respostas[1]
+        if(inputPergunta.value == "deixar fonte em italico") {
+            elementoResposta2.innerHTML = ""
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -240,6 +285,9 @@ function procurar() {
 
     if(inputPergunta.value == "Deixar fonte em italico") {
         elementoResposta.innerHTML = pergunta + respostas[1]
+        if(inputPergunta.value == "Deixar fonte em italico") {
+            elementoResposta2.innerHTML = ""
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -247,6 +295,9 @@ function procurar() {
 
     if(inputPergunta.value == "Deixar a fonte italico") {
         elementoResposta.innerHTML = pergunta + respostas[1]
+        if(inputPergunta.value == "Deixar a fonte italico") {
+            elementoResposta2.innerHTML = ""
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -254,6 +305,9 @@ function procurar() {
 
     if(inputPergunta.value == "deixar a fonte italico") {
         elementoResposta.innerHTML = pergunta + respostas[1]
+        if(inputPergunta.value == "deixar a fonte italico") {
+            elementoResposta2.innerHTML = ""
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -261,6 +315,9 @@ function procurar() {
 
     if(inputPergunta.value == "Deixar fonte italico") {
         elementoResposta.innerHTML = pergunta + respostas[1]
+        if(inputPergunta.value == "Deixar fonte italico") {
+            elementoResposta2.innerHTML = ""
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -268,6 +325,9 @@ function procurar() {
 
     if(inputPergunta.value == "deixar fonte italico") {
         elementoResposta.innerHTML = pergunta + respostas[1]
+        if(inputPergunta.value == "deixar fonte italico") {
+            elementoResposta2.innerHTML = ""
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -275,6 +335,9 @@ function procurar() {
 
     if(inputPergunta.value == "fonte em italico") {
         elementoResposta.innerHTML = pergunta + respostas[1]
+        if(inputPergunta.value == "fonte em italico") {
+            elementoResposta2.innerHTML = ""
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -282,6 +345,9 @@ function procurar() {
 
     if(inputPergunta.value == "Fonte em italico") {
         elementoResposta.innerHTML = pergunta + respostas[1]
+        if(inputPergunta.value == "Fonte em italico") {
+            elementoResposta2.innerHTML = ""
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -289,6 +355,9 @@ function procurar() {
 
     if(inputPergunta.value == "fonte italico") {
         elementoResposta.innerHTML = pergunta + respostas[1]
+        if(inputPergunta.value == "fonte italico") {
+            elementoResposta2.innerHTML = ""
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -296,6 +365,9 @@ function procurar() {
 
     if(inputPergunta.value == "Fonte italico") {
         elementoResposta.innerHTML = pergunta + respostas[1]
+        if(inputPergunta.value == "Fonte italico") {
+            elementoResposta2.innerHTML = ""
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -303,6 +375,9 @@ function procurar() {
 
     if(inputPergunta.value == "O que é CSS?") {
         elementoResposta.innerHTML = pergunta + respostas[2]
+        if(inputPergunta.value == "O que é CSS?") {
+            elementoResposta2.innerHTML = ""
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -310,6 +385,9 @@ function procurar() {
 
     if(inputPergunta.value == "o que é CSS?") {
         elementoResposta.innerHTML = pergunta + respostas[2]
+        if(inputPergunta.value == "o que é CSS?") {
+            elementoResposta2.innerHTML = ""
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -317,6 +395,9 @@ function procurar() {
 
     if(inputPergunta.value == "o que é css?") {
         elementoResposta.innerHTML = pergunta + respostas[2]
+        if(inputPergunta.value == "o que é css?") {
+            elementoResposta2.innerHTML = ""
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -324,6 +405,9 @@ function procurar() {
 
     if(inputPergunta.value == "O que é css?") {
         elementoResposta.innerHTML = pergunta + respostas[2]
+        if(inputPergunta.value == "O que é css?") {
+            elementoResposta2.innerHTML = ""
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -331,6 +415,9 @@ function procurar() {
 
     if(inputPergunta.value == "o que é css") {
         elementoResposta.innerHTML = pergunta + respostas[2]
+        if(inputPergunta.value == "o que é css") {
+            elementoResposta2.innerHTML = ""
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -338,6 +425,9 @@ function procurar() {
 
     if(inputPergunta.value == "O que é css") {
         elementoResposta.innerHTML = pergunta + respostas[2]
+        if(inputPergunta.value == "O que é css") {
+            elementoResposta2.innerHTML = ""
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -345,6 +435,9 @@ function procurar() {
 
     if(inputPergunta.value == "O que é CSS") {
         elementoResposta.innerHTML = pergunta + respostas[2]
+        if(inputPergunta.value == "O que é CSS") {
+            elementoResposta2.innerHTML = ""
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -352,6 +445,9 @@ function procurar() {
 
     if(inputPergunta.value == "o que é CSS") {
         elementoResposta.innerHTML = pergunta + respostas[2]
+        if(inputPergunta.value == "o que é CSS") {
+            elementoResposta2.innerHTML = ""
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -359,6 +455,9 @@ function procurar() {
 
     if(inputPergunta.value == "CSS") {
         elementoResposta.innerHTML = pergunta + respostas[2]
+        if(inputPergunta.value == "CSS") {
+            elementoResposta2.innerHTML = ""
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -366,6 +465,9 @@ function procurar() {
 
     if(inputPergunta.value == "css") {
         elementoResposta.innerHTML = pergunta + respostas[2]
+        if(inputPergunta.value == "css") {
+            elementoResposta2.innerHTML = ""
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -373,6 +475,9 @@ function procurar() {
 
     if(inputPergunta.value == "Css") {
         elementoResposta.innerHTML = pergunta + respostas[2]
+        if(inputPergunta.value == "Css") {
+            elementoResposta2.innerHTML = ""
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -501,7 +606,7 @@ function procurar() {
 
     if(inputPergunta.value == "diminuir opacidade do fundo do texto") {
         elementoResposta.innerHTML = pergunta + respostas[5]
-        if(inputPergunta.value == "Diminuir opacidade do fundo do texto") {
+        if(inputPergunta.value == "diminuir opacidade do fundo do texto") {
             elementoResposta2.innerHTML = respostas[6]
             return
         }
@@ -512,6 +617,10 @@ function procurar() {
 
     if(inputPergunta.value == "Como mudar a cor do fundo do texto?") {
         elementoResposta.innerHTML = pergunta + respostas[5]
+        if(inputPergunta.value == "Como mudar a cor do fundo do texto?") {
+            elementoResposta2.innerHTML = ""
+            return
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -519,6 +628,10 @@ function procurar() {
 
     if(inputPergunta.value == "como mudar a cor do fundo do texto?") {
         elementoResposta.innerHTML = pergunta + respostas[5]
+        if(inputPergunta.value == "como mudar a cor do fundo do texto?") {
+            elementoResposta2.innerHTML = ""
+            return
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -526,6 +639,10 @@ function procurar() {
 
     if(inputPergunta.value == "Como mudar a cor do fundo do texto") {
         elementoResposta.innerHTML = pergunta + respostas[5]
+        if(inputPergunta.value == "Como mudar a cor do fundo do texto") {
+            elementoResposta2.innerHTML = ""
+            return
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -533,6 +650,10 @@ function procurar() {
 
     if(inputPergunta.value == "Como mudar a cor de fundo do texto?") {
         elementoResposta.innerHTML = pergunta + respostas[5]
+        if(inputPergunta.value == "Como mudar a cor de fundo do texto?") {
+            elementoResposta2.innerHTML = ""
+            return
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -540,6 +661,10 @@ function procurar() {
 
     if(inputPergunta.value == "como mudar a cor de fundo do texto?") {
         elementoResposta.innerHTML = pergunta + respostas[5]
+        if(inputPergunta.value == "como mudar a cor de fundo do texto?") {
+            elementoResposta2.innerHTML = ""
+            return
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -547,6 +672,10 @@ function procurar() {
 
     if(inputPergunta.value == "Como mudar a cor de fundo do texto") {
         elementoResposta.innerHTML = pergunta + respostas[5]
+        if(inputPergunta.value == "Como mudar a cor de fundo do texto") {
+            elementoResposta2.innerHTML = ""
+            return
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -554,6 +683,10 @@ function procurar() {
 
     if(inputPergunta.value == "como mudar a cor de fundo do texto") {
         elementoResposta.innerHTML = pergunta + respostas[5]
+        if(inputPergunta.value == "como mudar a cor de fundo do texto") {
+            elementoResposta2.innerHTML = ""
+            return
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -561,6 +694,10 @@ function procurar() {
 
     if(inputPergunta.value == "Como mudar a cor de fundo?") {
         elementoResposta.innerHTML = pergunta + respostas[5]
+        if(inputPergunta.value == "Como mudar a cor de fundo?") {
+            elementoResposta2.innerHTML = ""
+            return
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -568,6 +705,10 @@ function procurar() {
 
     if(inputPergunta.value == "como mudar a cor de fundo?") {
         elementoResposta.innerHTML = pergunta + respostas[5]
+        if(inputPergunta.value == "como mudar a cor de fundo?") {
+            elementoResposta2.innerHTML = ""
+            return
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -575,6 +716,10 @@ function procurar() {
 
     if(inputPergunta.value == "Como mudar a cor de fundo") {
         elementoResposta.innerHTML = pergunta + respostas[5]
+        if(inputPergunta.value == "Como mudar a cor de fundo") {
+            elementoResposta2.innerHTML = ""
+            return
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -582,6 +727,10 @@ function procurar() {
 
     if(inputPergunta.value == "como mudar a cor de fundo") {
         elementoResposta.innerHTML = pergunta + respostas[5]
+        if(inputPergunta.value == "como mudar a cor de fundo") {
+            elementoResposta2.innerHTML = ""
+            return
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -589,6 +738,10 @@ function procurar() {
 
     if(inputPergunta.value == "Como mudar a cor do fundo?") {
         elementoResposta.innerHTML = pergunta + respostas[5]
+        if(inputPergunta.value == "Como mudar a cor do fundo?") {
+            elementoResposta2.innerHTML = ""
+            return
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -596,6 +749,10 @@ function procurar() {
 
     if(inputPergunta.value == "como mudar a cor do fundo?") {
         elementoResposta.innerHTML = pergunta + respostas[5]
+        if(inputPergunta.value == "como mudar a cor do fundo?") {
+            elementoResposta2.innerHTML = ""
+            return
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -603,6 +760,10 @@ function procurar() {
 
     if(inputPergunta.value == "Como mudar a cor do fundo") {
         elementoResposta.innerHTML = pergunta + respostas[5]
+        if(inputPergunta.value == "Como mudar a cor do fundo") {
+            elementoResposta2.innerHTML = ""
+            return
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -610,6 +771,10 @@ function procurar() {
 
     if(inputPergunta.value == "como mudar a cor do fundo") {
         elementoResposta.innerHTML = pergunta + respostas[5]
+        if(inputPergunta.value == "como mudar a cor do fundo") {
+            elementoResposta2.innerHTML = ""
+            return
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -617,6 +782,10 @@ function procurar() {
 
     if(inputPergunta.value == "Como diminuir opacidade do texto?") {
         elementoResposta.innerHTML = pergunta + respostas[7]
+        if(inputPergunta.value == "Como diminuir opacidade do texto?") {
+            elementoResposta2.innerHTML = ""
+            return
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -624,6 +793,10 @@ function procurar() {
 
     if(inputPergunta.value == "como diminuir opacidade do texto?") {
         elementoResposta.innerHTML = pergunta + respostas[7]
+        if(inputPergunta.value == "como diminuir opacidade do texto?") {
+            elementoResposta2.innerHTML = ""
+            return
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -631,6 +804,10 @@ function procurar() {
 
     if(inputPergunta.value == "Como diminuir opacidade do texto") {
         elementoResposta.innerHTML = pergunta + respostas[7]
+        if(inputPergunta.value == "Como diminuir opacidade do texto") {
+            elementoResposta2.innerHTML = ""
+            return
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -638,6 +815,10 @@ function procurar() {
 
     if(inputPergunta.value == "como diminuir opacidade do texto") {
         elementoResposta.innerHTML = pergunta + respostas[7]
+        if(inputPergunta.value == "como diminuir opacidade do texto") {
+            elementoResposta2.innerHTML = ""
+            return
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -645,6 +826,10 @@ function procurar() {
 
     if(inputPergunta.value == "Diminuir opacidade do texto") {
         elementoResposta.innerHTML = pergunta + respostas[7]
+        if(inputPergunta.value == "Diminuir opacidade do texto") {
+            elementoResposta2.innerHTML = ""
+            return
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -652,6 +837,10 @@ function procurar() {
 
     if(inputPergunta.value == "diminuir opacidade do texto") {
         elementoResposta.innerHTML = pergunta + respostas[7]
+        if(inputPergunta.value == "diminuir opacidade do texto") {
+            elementoResposta2.innerHTML = ""
+            return
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -659,6 +848,10 @@ function procurar() {
 
     if(inputPergunta.value == "Como diminuir opacidade?") {
         elementoResposta.innerHTML = pergunta + respostas[7]
+        if(inputPergunta.value == "Como diminuir opacidade?") {
+            elementoResposta2.innerHTML = ""
+            return
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -666,6 +859,10 @@ function procurar() {
 
     if(inputPergunta.value == "como diminuir opacidade?") {
         elementoResposta.innerHTML = pergunta + respostas[7]
+        if(inputPergunta.value == "como diminuir opacidade?") {
+            elementoResposta2.innerHTML = ""
+            return
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -673,6 +870,10 @@ function procurar() {
 
     if(inputPergunta.value == "Como diminuir opacidade") {
         elementoResposta.innerHTML = pergunta + respostas[7]
+        if(inputPergunta.value == "Como diminuir opacidade") {
+            elementoResposta2.innerHTML = ""
+            return
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -680,6 +881,10 @@ function procurar() {
 
     if(inputPergunta.value == "como diminuir opacidade") {
         elementoResposta.innerHTML = pergunta + respostas[7]
+        if(inputPergunta.value == "como diminuir opacidade") {
+            elementoResposta2.innerHTML = ""
+            return
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -687,6 +892,10 @@ function procurar() {
 
     if(inputPergunta.value == "Diminuir opacidade") {
         elementoResposta.innerHTML = pergunta + respostas[7]
+        if(inputPergunta.value == "Diminuir opacidade") {
+            elementoResposta2.innerHTML = ""
+            return
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -694,6 +903,10 @@ function procurar() {
 
     if(inputPergunta.value == "diminuir opacidade") {
         elementoResposta.innerHTML = pergunta + respostas[7]
+        if(inputPergunta.value == "diminuir opacidade") {
+            elementoResposta2.innerHTML = ""
+            return
+        }
         return
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
@@ -874,4 +1087,6 @@ function procurar() {
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
     }
+
+    
 }
