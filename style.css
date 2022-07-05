@@ -4,7 +4,7 @@
 
 body {
     background-color: blue;
-    background-image: linear-gradient(to bottom, white 0,1% , black 10%, black 35%, green 60%, black 85%);
+    background-image: linear-gradient(to right, #4717F6, #0E0B16);
 }
 
 #container {
@@ -67,7 +67,6 @@ button {
     padding-left: 50px;
     border: none;
     background-color: black;
-    background-image: linear-gradient(to bottom, green 0,1%, black);
     color: #0DFF00;
     font-family: consolas;
     transition: filter .2s;
@@ -80,38 +79,8 @@ button:hover {
     cursor: pointer;
 }
 
-.imgp2 {
-    display: flex;
-    align-items: center;
-}
-
-#maos {
-    width: 130px;
-}
-
-#p2 {
-    text-align: right;
-    margin-top: 50px;
-    font-size: 20px;
-    margin-bottom: 55px;
-}
-
-#exclamação {
-    width: 130px; 
-}
-
-#p3 {
-    text-align: start;
-    margin-bottom: 60px;
-}
-
 h4 {
     margin-bottom: 20px;
-    color: #0DFF00;
-}
-
-#p4 {
-    margin-bottom: 100px;
     color: #0DFF00;
 }
 
