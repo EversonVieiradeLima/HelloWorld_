@@ -28,10 +28,11 @@ function procurar() {
         if(inputPergunta.value == "O que é um algoritmo?") {
             elementoResposta2.innerHTML = respostas[4]
             return
-        }    
+        }
         return 
     } else {
         elementoResposta.innerHTML = pergunta + respostas[3]
+        elementoResposta2.innerHTML = ""
     }
 
     if(inputPergunta.value == "algoritmo") {
