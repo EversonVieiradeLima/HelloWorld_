@@ -57,10 +57,9 @@ input, button {
 }
 
 input {
-    padding-left: 110px;
+    height: 17px;
     margin-bottom: 10px;
     width: 50%;
-    text-align: right;
 }
 
 button {
